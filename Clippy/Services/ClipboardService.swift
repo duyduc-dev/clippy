@@ -8,6 +8,8 @@ import Foundation
 import AppKit
 
 class ClipboardService: ObservableObject {
+    static let Instance = ClipboardService()
+    
     private let storageService = ClipboardStorageService()
 
     private var timer: Timer?
@@ -60,7 +62,7 @@ class ClipboardService: ObservableObject {
     
     func pin(_ id: UUID, _ isPin: Bool) {
         if let index = histories.firstIndex(where: { $0.id == id }) {
-            var item = histories[index]
+            let item = histories[index]
             item.isPinned = isPin
             histories[index] = item
         }

@@ -9,10 +9,14 @@ import SwiftUI
 
 @main
 struct ClippyApp: App {
+    @NSApplicationDelegateAdaptor(AppMenuBarDelegate.self) var appMenuBarDelegate
     
     var body: some Scene {
         WindowGroup {
             ContentView()
+                
         }
+        
     }
 }
+
