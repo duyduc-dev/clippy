@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		93BD31A12DB49B5B00C2A56B /* build.sh in Resources */ = {isa = PBXBuildFile; fileRef = 93BD31A02DB49B5400C2A56B /* build.sh */; };
+		93F9486B2DB506BD00D7E612 /* HotKey in Frameworks */ = {isa = PBXBuildFile; productRef = 93F9486A2DB506BD00D7E612 /* HotKey */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93F9486B2DB506BD00D7E612 /* HotKey in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,6 +73,7 @@
 			);
 			name = Clippy;
 			packageProductDependencies = (
+				93F9486A2DB506BD00D7E612 /* HotKey */,
 			);
 			productName = Clippy;
 			productReference = 9349149B2DAA213C0026B40F /* Clippy.app */;
@@ -100,6 +103,9 @@
 			);
 			mainGroup = 934914922DAA213C0026B40F;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				93F948692DB506BD00D7E612 /* XCRemoteSwiftPackageReference "HotKey" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 9349149C2DAA213C0026B40F /* Products */;
 			projectDirPath = "";
@@ -328,6 +334,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		93F948692DB506BD00D7E612 /* XCRemoteSwiftPackageReference "HotKey" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/soffes/HotKey";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		93F9486A2DB506BD00D7E612 /* HotKey */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 93F948692DB506BD00D7E612 /* XCRemoteSwiftPackageReference "HotKey" */;
+			productName = HotKey;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 934914932DAA213C0026B40F /* Project object */;
 }

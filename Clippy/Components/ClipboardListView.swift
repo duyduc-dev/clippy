@@ -8,7 +8,7 @@ import SwiftUI
 
 struct ClipboardListView: View {
     
-    @ObservedObject var clipboardService = ClipboardService()
+    @ObservedObject var clipboardService = ClipboardService.Instance
     @State private var currentId: UUID? = nil
     @State private var showClearAllConfirmation = false
     @State private var searchText: String = ""
@@ -100,6 +100,7 @@ struct ClipboardListView: View {
                 }
             }
         }
+        .cornerRadius(8)
         .listStyle(.inset)
     }
 }

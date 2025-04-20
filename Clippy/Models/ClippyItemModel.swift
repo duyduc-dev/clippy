@@ -6,7 +6,7 @@
 //
 import Foundation
 
-class ClippyItemModel: Identifiable, Hashable, Equatable, Codable {
+class ClippyItemModel: Identifiable, Hashable, Equatable, Codable, EventData {
     let id: UUID
     let text: String
     let timestamp: Date
