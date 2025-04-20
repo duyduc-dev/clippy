@@ -1,0 +1,16 @@
+{
+  "source": "/Users/ducdang/workspace/macos/Clippy/Clippy/Components/TextInput.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 8
+        }
+      }
+    ]
+  },
+  "version": 1
+}

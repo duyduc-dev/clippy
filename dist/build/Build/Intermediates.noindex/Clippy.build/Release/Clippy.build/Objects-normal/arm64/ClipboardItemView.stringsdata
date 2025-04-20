@@ -1,0 +1,32 @@
+{
+  "source": "/Users/ducdang/workspace/macos/Clippy/Clippy/Components/ClipboardItemView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Copy",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unpin",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pin",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 57
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,60 @@
+{
+  "" : {
+    "const-values" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/Clippy-master.swiftconstvalues",
+    "dependencies" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/Clippy-master.d",
+    "diagnostics" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/Clippy-master.dia",
+    "emit-module-dependencies" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/Clippy-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/Clippy-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/Clippy-master.swiftdeps"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/ClippyApp.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClippyApp.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClippyApp.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClippyApp.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Components/ClipboardItemView.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardItemView.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardItemView.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardItemView.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Components/ClipboardListView.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardListView.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardListView.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardListView.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Components/TextInput.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/TextInput.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/TextInput.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/TextInput.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/ContentView.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ContentView.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Models/ClippyItemModel.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClippyItemModel.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClippyItemModel.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClippyItemModel.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Services/ClipboardService.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardService.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardService.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardService.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Services/ClipboardStorageService.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardStorageService.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardStorageService.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/ClipboardStorageService.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/Clippy/Views/MainView.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/MainView.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/MainView.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/MainView.o"
+  },
+  "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ducdang/workspace/macos/Clippy/dist/build/Build/Intermediates.noindex/Clippy.build/Release/Clippy.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  }
+}

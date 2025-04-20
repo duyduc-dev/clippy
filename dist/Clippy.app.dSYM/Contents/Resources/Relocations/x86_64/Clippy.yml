@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/ducdang/workspace/macos/Clippy/dist/Clippy.app/Contents/MacOS/Clippy'
+relocations:     []
+...
